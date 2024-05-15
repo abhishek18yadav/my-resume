@@ -1,0 +1,143 @@
+body{
+    width: 767px;
+    height: 954px;
+    border: #000;
+    border-style: double;
+    border-width: 3px;
+}
+.background{
+    display: flex;
+    flex-direction: row;
+}
+.leftcolumn{
+    padding-left: 56px;
+}
+.candidatePhoto{
+    height: 170px;
+    width:170px;
+    padding-left: 25px;
+}
+.candidateName{
+    color: aliceblue;
+    font-size: 23px;
+    font-weight: 34px;
+}
+.left_top{
+    height: 319px;
+    width: 224px;
+    background-color: rgb(86, 86, 255);
+    padding: 23px 34px ;
+}
+.githubid{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffff;
+}.githubidP{
+    padding-left: 13px;
+    padding-bottom: 4px;
+}.githubidPic{
+    padding-top: 13px;
+}.linkedinid{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 9px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffff;
+}.linkedinidP{
+    padding-left: 13px;
+    padding-bottom: 4px;
+}.linkedinPic{
+    padding-top: 13px;
+}
+.left_down{
+    background-color: #3c4240;
+    color: #ffffff;
+    width: 253px;
+    padding-top: 1px;
+    padding-left: 39px;
+    padding-bottom: 11px;
+}
+.phone{
+    font-size: 21px;
+    padding-bottom: 8px;
+}.email{
+    font-size: 21px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+.rightcolumn{
+    width: 314px;
+    padding-left: 50px;
+}
+.summaryheading{
+    font-size: 23px;
+    padding-top: 12px;
+}.summaryunderline{
+    height: 3px;
+    background-color: #000;
+}
+.projects h2{
+    font-size: 23px;
+    padding-top: 12px;
+}.projectsunderline{
+    height: 3px;
+    background-color: #000;
+}
+.project1heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.project1heading h3{
+    padding-left: 4px;
+}
+.project2heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.project2heading h3{
+    padding-left: 4px;
+    padding-bottom: 2px;
+}
+.project3heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.project3heading h3{
+    padding-left: 4px;
+    padding-bottom: 2px;
+}
+.project4heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.project4heading h3{
+    padding-left: 4px;
+    padding-bottom: 2px;
+}.educationunderline{
+    height: 3px;
+    background-color: #000;
+}
+.highschoolheading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.highschoolheading h3{
+    padding-left: 4px;
+}
+.intermediateheading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.intermediateheading h3{
+    padding-left: 4px;
+}
+.graduationheading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}.graduationheading h3{
+    padding-left: 4px;
+}
